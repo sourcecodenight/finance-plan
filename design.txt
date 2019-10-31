@@ -5,3 +5,4 @@ def retirementPlanning():
 def carLoanEMICalc():
 def homeLoanEMICalc():
 def inHandSalCalc():
+def buyHouseTarget():
