@@ -6,3 +6,4 @@ def carLoanEMICalc():
 def homeLoanEMICalc():
 def inHandSalCalc():
 def buyHouseTarget():
+def buyCarTarget():
