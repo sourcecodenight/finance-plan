@@ -4,4 +4,4 @@ It includes the signature and flow of various functions.
 def retirementPlanning():
 def carLoanEMICalc():
 def homeLoanEMICalc():
-def inhandSalCalc():
+def inHandSalCalc():
