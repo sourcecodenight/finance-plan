@@ -1,9 +1,12 @@
-Purpose of this file is to decide the design of package.
-It includes the signature and flow of various functions.
-
 def retirementPlanning():
+    return (a,b,c)
 def carLoanEMICalc():
+    return (a,b,c)
 def homeLoanEMICalc():
+    return (a,b,c)
 def inHandSalCalc():
+    return (a,b,c)
 def buyHouseTarget():
+    return (a,b,c)
 def buyCarTarget():
+    return (a,b,c)
