@@ -1,3 +1,7 @@
-Purpose of this file is to decide the design of package. It includes the signature and flow of various functions.
+Purpose of this file is to decide the design of package.
+It includes the signature and flow of various functions.
 
 def retirementPlanning():
+def carLoanEMICalc():
+def homeLoanEMICalc():
+def inHandSalCalc():
