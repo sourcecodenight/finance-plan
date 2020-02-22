@@ -9,4 +9,5 @@ loan_tenure = float(input("Enter the number of months for which you seeking loan
 monthly_rate_of_interest = annual_rate_of_interest/1200
 temp_var = 1 + monthly_rate_of_interest
 monthly_emi = principal_amount * monthly_rate_of_interest * ((temp_var**loan_tenure)/((temp_var**loan_tenure)-1))
+monthly_emi = round(monthly_emi, 2)
 print("Your monthly EMI is : "+ str(monthly_emi))
