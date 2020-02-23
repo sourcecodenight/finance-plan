@@ -16,3 +16,4 @@ def inHandSalary(CTC, variable, PF):
 if __name__ == "__main__":
     salary = inHandSalary(1800000, 7, 8)
     print("Monthly salary : ", salary/12)
+#now rewrite function by changing the var to input functions
